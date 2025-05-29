@@ -34,7 +34,7 @@ The portfolio showcases a curated list of my projects:
 ## 📫 Contact
 
 You can reach me at:
-- ✉️ **Email:** [subhangip2005@gmail.com]
+- ✉️ **Email:** [Subhangi.Pandey2022@iem.edu.in]
 - 💼 **LinkedIn:** [linkedin.com/in/subhangi03](https://www.linkedin.com/in/subhangi03)
 - 🖥️ **GitHub:** [github.com/subhangi03](https://github.com/subhangi03)
 
