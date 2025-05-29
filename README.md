@@ -40,7 +40,7 @@ You can reach me at:
 
 ---
 
-### 🎯 License
+### License
 
 This project is licensed for personal use and sharing purposes. If you’d like to fork or reuse the design, feel free — but give credit where due!
 
